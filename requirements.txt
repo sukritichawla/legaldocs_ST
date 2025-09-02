@@ -1,0 +1,1 @@
+transformers\ndatasets\nsentencepiece\naccelerate\nhuggingface_hub\npandas\nnumpy\ntqdm\nbeautifulsoup4\nfeedparser\nsacrebleu\nrouge-score\ngradi
