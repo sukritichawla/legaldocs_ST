@@ -1,0 +1,42 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Sample Notebook\n",
+    "This is a sample Jupyter Notebook uploaded to GitHub."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import numpy as np\n",
+    "import matplotlib.pyplot as plt\n\n",
+    "# Generate some data\n",
+    "x = np.linspace(0, 10, 100)\n",
+    "y = np.sin(x)\n\n",
+    "# Plot\n",
+    "plt.plot(x, y, label='sin(x)')\n",
+    "plt.legend()\n",
+    "plt.show()"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
